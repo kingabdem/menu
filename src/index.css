@@ -1,0 +1,10 @@
+@import url("https://fonts.googleapis.com/css2?family=Nanum+Gothic&family=Roboto:ital,wght@1,400;1,500&display=swap");
+
+* {
+  font-family: "Nanum Gothic", sans-serif;
+  font-family: "Roboto", sans-serif;
+}
+
+:root{
+  --green: #1ABC9C;
+}
